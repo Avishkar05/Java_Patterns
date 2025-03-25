@@ -7,15 +7,10 @@ Welcome to the Java Pattern Questions & Answers repository! 🎉 This repository
 
 📌 Table of Contents
 
-Introduction
-
 Patterns Covered
-
-How to Use
 
 Contributing
 
-License
 
 🚀 Introduction
 
@@ -23,7 +18,15 @@ This repository contains a collection of commonly asked Java pattern programming
 
 🔥 Patterns Covered
 
-✅ Pyramid Patterns✅ Star Patterns✅ Number Patterns✅ Alphabet Patterns✅ Diamond Patterns✅ Floyd’s Triangle✅ Pascal’s Triangle✅ Hollow Patterns✅ Butterfly Pattern... and many more!
+✅ Star Patterns
+✅ Number Patterns
+✅ Alphabet Patterns
+✅ Pyramid Patterns
+✅ Diamond Patterns
+✅ Floyd’s Triangle
+✅ Pascal’s Triangle
+✅ Hollow Patterns
+✅ Butterfly Pattern... and many more!
 
 📖 How to Use
 
